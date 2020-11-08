@@ -1,3 +1,5 @@
+![](skel.png)
+
 # Skeleton-Dactyl-Mini
 
 Made to be used with 
