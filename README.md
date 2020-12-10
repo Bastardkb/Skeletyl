@@ -12,6 +12,8 @@ Made to be used with
 - USB-C microcontroller
 - 3.5mm audio jack
 
+Compatible with the [Flexyl-Univ](https://www.hidtech.ca/?product=flexyl-univ) (careful sanding of the edges required to make it fit)
+
 # Forks
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
