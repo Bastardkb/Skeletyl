@@ -12,7 +12,16 @@ Made to be used with
 - USB-C microcontroller
 - 3.5mm audio jack
 
-Compatible with the [Flexyl-Univ](https://www.hidtech.ca/?product=flexyl-univ) (careful sanding of the edges required to make it fit)
+# Parts list
+
+Work in progress 
+
+| Part name  | Amount |
+| ------------- | ------------- |
+| Elite-C  | 2  |
+| Audio jack  | 2  |
+| Screw insert, M4 4mm long | 14  |
+| Screw, M4, 10mm, tapered (Torx recommended) | 14  |
 
 # Forks
 
