@@ -37,9 +37,11 @@ Work in progress
 
 ![](pics/skel.png)
 
-V1 (blue) / V2 (red)
-![](pics/1.png)
-![](pics/2.png)
+V1 / V2
+![](pics/v1v2.jpg)
+
+V2
+![](pics/2.jpg)
 
 
 # License 
