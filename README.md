@@ -17,6 +17,10 @@ V2:
 - should work with amoebas and flexible pcbs
 - more screws !
 
+V2.7:
+
+- compatible with the [elite-c holder pcb](https://github.com/Bastardkb/Elite-C-holder)
+
 
 # Parts list
 
