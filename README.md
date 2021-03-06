@@ -34,7 +34,6 @@ The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not.
 
 **Note: please use Elite-C adapter V1.3**
 
-**Note: the per-key RGB will not work at this point** - or you will need to solder cables to LED pads, this is difficult !!
 
 Parts list:
 
@@ -48,6 +47,17 @@ Parts list:
 | M4 8mm Torx Screw | 12  | Conrad |
 | M4 screw insert | 12  | Aliexpress |
 | Audio jack, SMD | 2  |  |
+
+
+**Note: the per-key RGB will not work at this point** - or you will need to solder cables to LED pads, this is difficult !!
+
+If you still want RGB, you will also need:
+
+| Part name  | Amount |  Link |
+| ------------- | ------------- | ------------- |
+| FlexStrip cables | 6  | Farnell |
+| 28AWG Cables | 6  | Aliexpress |
+| SK6812 Mini-E LEDs | 42  | Aliexpress |
 
 ## Get a kit from BastardKB
 
