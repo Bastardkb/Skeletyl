@@ -21,7 +21,7 @@ V1:
 V2:
 
 - smoother
-- should work with amoebas and flexible pcbs
+- Compatible with amoebas and flexible pcbs
 - more screws !
 
 # Sourcing the components
