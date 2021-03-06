@@ -4,6 +4,8 @@
 
 Compact and silent Dactyl-like keyboard for ergo lovers.
 
+![](pics/4.jpg)
+
 # Support me on Patreon
 
 If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
