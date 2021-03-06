@@ -32,7 +32,7 @@ For sourcing the components, you have two options:
 
 You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
 
-The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not.
+The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not. Instead, you can use Amoebas.
 
 **Note: please use Elite-C adapter V1.3**
 
@@ -41,10 +41,10 @@ Parts list:
 
 | Part name  | Amount |  Link |
 | ------------- | ------------- | ------------- |
-| Amoebas  | 32  | |
+| Amoebas  | 36  | |
 | Elite-C | 2  | |
 | Elite-C adapter PCB V1.3 | 2  | https://github.com/Bastardkb/Elite-C-holder |
-| SOD123 Diodes | 32  | |
+| SOD123 Diodes | 36  | |
 | FlexStrip cables | 30  | Farnell |
 | M4 8mm Torx Screw | 12  | Conrad |
 | M4 screw insert | 12  | Aliexpress |
