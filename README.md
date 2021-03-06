@@ -97,6 +97,11 @@ https://docs.bastardkb.com/hc/en-us/articles/360020031340-Kit-contents-and-requi
 
 This is for the 6x3, but it will work for this keyboard as well.
 
+# Finding help
+
+- Discord: https://bastardkb.com/discord
+- Website: https://bastardkb.com/
+- Docs: https://docs.bastardkb.com
 
 # Forks
 
