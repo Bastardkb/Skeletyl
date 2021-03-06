@@ -88,6 +88,14 @@ The cases are printed at 0.15 mm layer height using Prusament Galaxy Black on a 
 
 I check and post-process each case individually to make sure it matches very high quality standards.
 
+# Build guide
+
+Please find detailed build instructions here:
+https://docs.bastardkb.com/hc/en-us/articles/360020031340-Kit-contents-and-required-tools
+
+This is for the 6x3, but it will work for this keyboard as well.
+
+
 # Forks
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
