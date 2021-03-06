@@ -10,7 +10,7 @@ Compact and silent Dactyl-like keyboard for ergo lovers.
 
 If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
 
-I post regular updates and hindsight on my work. This helps a lot !
+I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
 
 # Versions
 
