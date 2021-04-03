@@ -1,6 +1,6 @@
 ## Skeletyl Tenting base.
 
-![skeltyl tenting left side](https://raw.githubusercontent.com/cwebster2/Skeleton-Dactyl-Mini/cw-tenting-base/V2-tenting-base/Skeletyl_Tented_V2.jpg)
+![skeltyl tenting left side](https://raw.githubusercontent.com/Bastardkb/Skeletyl/main/V2-tenting-base/Skeletyl_Tented_V2.jpg)
 
 This tenting base attaches to the bottom of the skeletyl and provides a 15 degree tenting angle and provides a new bottom plate to attach to the bottom of the tenting base.
 
