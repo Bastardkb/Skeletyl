@@ -1,5 +1,7 @@
 ## Skeletyl Tenting base.
 
+![skeltyl tenting left side](https://raw.githubusercontent.com/cwebster2/Skeleton-Dactyl-Mini/cw-tenting-base/V2-tenting-base/Skeletyl_Tented_V2.jpg)
+
 This tenting base attaches to the bottom of the skeletyl and provides a 15 degree tenting angle and provides a new bottom plate to attach to the bottom of the tenting base.
 
 STL files for the tenting base and the bottom plate are provided.  A prusa slicer project file is provided for the tenting base that contains the settings I used to successfully print the models.  A Fusion 360 file is provided so you can customize this as you see fit.  For example, the tenting is achieved with a construction plane cutting an extrusion and you can adjust this to achieve your desired tenting and tilting angles.
