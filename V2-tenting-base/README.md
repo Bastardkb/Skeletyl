@@ -24,4 +24,6 @@ Things you'll need to build it like me:
 The batteries are optional and only make sense if you are using a nice!nano controller and if that is the case you can of course use any battery that makes sense for you.
 To assemble, install the M3 heat set inserts into the tenting base (not holes that are flat on both sides, *not* the countersunk holes).  Install the momentary and on/off swtiches.  Wire the momentary switch to RST and Ground on your microcontroller.  Wire the on/off swtich to your battery positive terminal and to the B+ connection on the nice!nano.  Connect your negative battery wire to the B- connection on the nice!nano.  Screw the tenting base to the skeletyl with the M4 machine screws, then screw the bottom plate to the tenting base with M3 machine screws.
 
+### Flashing ZMK
 
+If you are using a nice!nano, you'll need a ZMK shield for this keyboard.  See https://github.com/cwebster2/zmk-config for an example of a working setup for the skeletyl.  
