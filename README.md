@@ -43,7 +43,7 @@ Parts list:
 | ------------- | ------------- | ------------- |
 | Amoebas  | 36  | |
 | Elite-C | 2  | |
-| Elite-C adapter PCB V1.3 | 2  | https://github.com/Bastardkb/Elite-C-holder |
+| Elite-C adapter PCB V1.4 | 2  | https://github.com/Bastardkb/Elite-C-holder |
 | SOD123 Diodes | 36  | |
 | FlexStrip cables | 30  | Farnell |
 | M4 8mm Torx Screw | 12  | Conrad |
