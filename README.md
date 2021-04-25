@@ -24,6 +24,11 @@ V2:
 - Compatible with amoebas and flexible pcbs
 - more screws !
 
+V3:
+
+- better stronger screw inserts (added aliexpress link in readme)
+- switch to adapter V1.4
+
 # Sourcing the components
 
 For sourcing the components, you have two options:
