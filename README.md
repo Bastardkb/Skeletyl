@@ -52,7 +52,7 @@ Parts list:
 | SOD123 Diodes | 36  | |
 | FlexStrip cables | 30  | Farnell |
 | M4 8mm Torx Screw | 12  | Conrad |
-| M4 screw insert | 12  | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+| M4 screw insert, M4 X D6.0 X L5.0  | 12  | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 | Audio jack, SMD | 2  |  |
 
 
