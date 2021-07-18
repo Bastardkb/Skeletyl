@@ -50,7 +50,7 @@ Parts list:
 | Elite-C | 2  | |
 | Elite-C adapter PCB V1.4 | 2  | https://github.com/Bastardkb/Elite-C-holder |
 | SOD123 Diodes | 36  | |
-| FlexStrip cables | 30  | Farnell |
+| Wires |   | 28 AWG recommended |
 | M4 8mm Torx Screw | 12  | Conrad |
 | M4 screw insert, M4 X D6.0 X L5.0  | 12  | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 | Audio jack, SMD | 2  |  |
