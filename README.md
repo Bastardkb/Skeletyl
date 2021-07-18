@@ -31,9 +31,7 @@ V3:
 
 # Sourcing the components
 
-For sourcing the components, you have two options:
-
-## Source them yourself
+## Electronic components
 
 You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
 
@@ -41,56 +39,39 @@ The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not.
 
 Parts list:
 
-| Part name  | Amount |  Link |
-| ------------- | ------------- | ------------- |
-| Amoebas  | 36  | |
-| Elite-C | 2  | |
-| Elite-C adapter PCB V1.4 | 2  | https://github.com/Bastardkb/Elite-C-holder |
-| SOD123 Diodes | 36  | |
-| Wires |   | 28 AWG recommended |
-| M4 8mm Torx Screw | 12  | Conrad |
-| M4 screw insert, M4 X D6.0 X L5.0  | 12  | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Audio jack, SMD | 2  |  |
+| Part name                         | Amount | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
+| Amoebas                           | 36     |                                                                                         |
+| Elite-C                           | 2      |                                                                                         |
+| Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                             |
+| SOD123 Diodes                     | 36     |                                                                                         |
+| Wires                             |        | 28 AWG recommended                                                                      |
+| M4 8mm Torx Screw                 | 12     | Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+| Audio jack, SMD                   | 2      |                                                                                         |
 
 
-**Note: the per-key RGB will not work at this point** - or you will need to solder cables to LED pads, this is difficult !!
+If you want RGB, you will also need:
 
-If you still want RGB, you will also need:
+| Part name          | Amount | Link       |
+| ------------------ | ------ | ---------- |
+| SK6812 Mini-E LEDs | 42     | Aliexpress |
 
-| Part name  | Amount |  Link |
-| ------------- | ------------- | ------------- |
-| FlexStrip cables | 6  | Farnell |
-| 28AWG Cables | 6  | Aliexpress |
-| SK6812 Mini-E LEDs | 42  | Aliexpress |
+## Print the case
+
+The STL, STEP and Fusion files are included in this Github.
+Feel free to modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
+
+Please find detailed instructions on how to print the case here:
+https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
+
 
 ## Get a kit from BastardKB
 
 You can get a full Kit, including case and all PCBs and electronics required on the shop:
 https://bastardkb.com/
 
-
 If you want to print the case yourself, you can also get just the electronics Kit.
-
-# Sourcing the case
-
-The STL, STEP and Fusion files are included in this Github.
-Feel free to modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
-
-For sourcing the case, you have two options:
-
-## Print it yourself
-
-Please find detailed instructions on how to print the case here:
-https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
-
-
-## Get a case from BastardKB
-
-If you want a case, please contact me directly through the website.
-
-The cases are printed at 0.15 mm layer height using Prusament Galaxy Black on a Prusa MK3s.
-
-I check and post-process each case individually to make sure it matches very high quality standards.
 
 # Build guide
 
