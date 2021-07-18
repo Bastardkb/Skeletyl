@@ -1,6 +1,4 @@
-*Skeletyl*
-
-# Skeleton-Dactyl-Mini
+# Skeletyl
 
 Compact and silent Dactyl-like keyboard for ergo lovers.
 
