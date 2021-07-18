@@ -39,9 +39,6 @@ You will need to order the parts from a shop, and order some PCBs directly from 
 
 The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not. Instead, you can use Amoebas.
 
-**Note: please use Elite-C adapter V1.3**
-
-
 Parts list:
 
 | Part name  | Amount |  Link |
