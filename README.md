@@ -4,12 +4,6 @@ Compact and silent Dactyl-like keyboard for ergo lovers.
 
 ![](pics/4.jpg)
 
-# Support me on Patreon
-
-If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
-
-I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
-
 # Versions
 
 V1:
@@ -47,6 +41,7 @@ Parts list:
 | M4 8mm Torx Screw                 | 12     | Conrad                                                                                  |
 | M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 | Audio jack, SMD                   | 2      |                                                                                         |
+| Button, 4*4*1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 
 
 If you want RGB, you will also need:
@@ -97,6 +92,13 @@ V1 / V2
 
 V2
 ![](pics/2.jpg)
+
+
+# Support me on Patreon
+
+If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
+
+I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
 
 
 # License 
