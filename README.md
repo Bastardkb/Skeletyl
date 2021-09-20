@@ -43,6 +43,7 @@ Parts list:
 | Audio jack, SMD                   | 2      |                                                                                         |
 | Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 
+If you don't want to source the Elite-C adapter PCB, you can use the [printable shield adapter from Geoff](https://github.com/geoffder/dometyl-keyboard/blob/main/things/holders/bastardkb/printable_shield.stl).
 
 If you want RGB, you will also need:
 
