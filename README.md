@@ -27,13 +27,12 @@ V3:
 
 You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
 
-The Elite-C Adapters are open-source. At this moment, the flexible PCBs are not. Instead, you can use Amoebas.
-
 Parts list:
 
 | Part name                         | Amount | Link                                                                                    |
 | --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
-| Amoebas                           | 36     |                                                                                         |
+| Flexible PCB for the plate   | 2     | https://github.com/Bastardkb/PCB_plate_DM                                                        |
+| Flexible PCB for the thumbs   | 2     | https://github.com/Bastardkb/PCB_Thumbs_DM                                                      |
 | Elite-C                           | 2      |                                                                                         |
 | Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                             |
 | SOD123 Diodes                     | 36     |                                                                                         |
@@ -43,6 +42,9 @@ Parts list:
 | Audio jack, SMD                   | 2      |                                                                                         |
 | Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 
+If you don't want to source the Elite-C adapter PCB, you can use the [printable shield adapter from Geoff](https://github.com/geoffder/dometyl-keyboard/blob/main/things/holders/bastardkb/printable_shield.stl).
+
+If you don't want to source the flexible PCBs, you can also use either amoebas or handwire.
 
 If you want RGB, you will also need:
 
