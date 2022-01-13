@@ -4,23 +4,6 @@ Compact and silent Dactyl-like keyboard for ergo lovers.
 
 ![](pics/4.jpg)
 
-# Versions
-
-V1:
-
-- original version
-
-V2:
-
-- smoother
-- Compatible with amoebas and flexible pcbs
-- more screws !
-
-V3:
-
-- better stronger screw inserts (added aliexpress link in readme)
-- switch to adapter V1.4
-
 # Sourcing the components
 
 ## Electronic components
@@ -60,6 +43,20 @@ Feel free to modify them at length. The files are on a non-commercial license, s
 Please find detailed instructions on how to print the case here:
 https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
 
+There is also a version that uses a blackpill with its shield PCB, in the `V3/blackpill` folder. The position of the audio jack and usb-c holes are slightly different.
+
+## Print the tents
+
+Optionally, you can print 30 degree tents. Those are removable and attached with screws, and also come with an optional bottom plate.
+
+The tents come in 2 versions: normal, and organic. The organic one provides a sleeker skeleton-style look with a side holder for the shield pcb, but is longer and harder to print.
+
+There is a separate version of the organic tent that accomodates a blackpill with shied on the side.
+
+
+| Front view               | Side view           |
+| ----------------- | ------------------ |
+| ![](pics/tent1.jpg) | ![](pics/tent2.jpg) |
 
 ## Get a kit from BastardKB
 
@@ -85,17 +82,6 @@ This is for the 6x3, but it will work for this keyboard as well.
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
 
-# Pictures
-
-![](pics/skel.png)
-
-V1 / V2
-![](pics/v1v2.jpg)
-
-V2
-![](pics/2.jpg)
-
-
 # Support me on Patreon
 
 If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
@@ -106,3 +92,20 @@ I post regular updates and hindsight on my work. I work full time on keyboard in
 # License 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+# Versions
+
+V1:
+
+- original version
+
+V2:
+
+- smoother
+- Compatible with amoebas and flexible pcbs
+- more screws !
+
+V3:
+
+- better stronger screw inserts (added aliexpress link in readme)
+- switch to adapter V1.4
