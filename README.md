@@ -2,7 +2,8 @@
 
 Compact and silent Dactyl-like keyboard for ergo lovers.
 
-![](pics/4.jpg)
+![](pics/c1.jpg)
+*picture: trekdemo*
 
 # Sourcing the components
 
