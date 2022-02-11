@@ -52,8 +52,6 @@ Optionally, you can print 30 degree tents. Those are removable and attached with
 
 The tents come in 2 versions: normal, and organic. The organic one provides a sleeker skeleton-style look with a side holder for the shield pcb, but is longer and harder to print.
 
-There is a separate version of the organic tent that accomodates a blackpill with shied on the side.
-
 
 | Front view               | Side view           |
 | ----------------- | ------------------ |
