@@ -81,6 +81,13 @@ This is for the 6x3, but it will work for this keyboard as well.
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
 
+
+# Mods
+## Chair mount plate  
+Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).  
+  
+![](pics/chairMount.png)
+
 # Support me on Patreon
 
 If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
