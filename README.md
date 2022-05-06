@@ -36,6 +36,12 @@ If you want RGB, you will also need:
 | Wires                   |        | 28 AWG recommended, Black, Red, Color |
 | Ribbon cables Flexstrip | 6      |                                       |
 
+## 3d Parts compatibility
+
+The revision 4 of the skeletyl introduces drastic changes with the bottom plate. It reuses the positioning of the screws of the Charybdis Nano, so that the Organic tent can be re-used. It also uses new voronoi-style plates.
+
+When choosing a model to print, be mindful of the version you choose. The files in the `V3` folder are **not** compatible with the V4 case. Since the V4 was made for homogeneity purposes only and doesn't bring any major improvements, if you want to use any of the `V3` mods that are not translated yet, go for the `V3`.
+
 ## Print the case
 
 The STL, STEP and Fusion files are included in this Github.
