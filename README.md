@@ -121,3 +121,9 @@ V3:
 
 - better stronger screw inserts (added aliexpress link in readme)
 - switch to adapter V1.4
+
+V4
+
+- change plate footprint to be compatible with the charybdis nano organic tent
+- small visual improvements
+- add version numbering on the case and plate
