@@ -80,6 +80,7 @@ This is for the 6x3, but it will work for this keyboard as well.
 # Forks
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
+- [Navtyl - with 5-way switch](https://github.com/Wimads/Navtyl)
 
 
 # Mods
