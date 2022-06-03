@@ -58,7 +58,7 @@ Optionally, you can print 30 degree tents. Those are removable and attached with
 
 The tents come in 2 versions: normal, and organic. The organic one provides a sleeker skeleton-style look with a side holder for the shield pcb, but is longer and harder to print.
 
-**Important information**: if you are using the skeletyl V4, there are no normal tents. Instead, the alien tents of the Charybdis Nano should be used.
+**Important information**: if you are using the skeletyl V4, there are no normal tents. Instead, the alien tents of the Charybdis Nano should be used - either 15 or 30 degrees.
 
 
 | Front view               | Side view           |
