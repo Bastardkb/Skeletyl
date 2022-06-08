@@ -88,6 +88,14 @@ This is for the 6x3, but it will work for this keyboard as well.
 # Forks
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
+- [Navtyl - with 5-way switch](https://github.com/Wimads/Navtyl)
+
+
+# Mods
+## Chair mount plate  
+Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).  
+  
+![](pics/chairMount.png)
 
 
 # Mods
