@@ -36,6 +36,12 @@ If you want RGB, you will also need:
 | Wires                   |        | 28 AWG recommended, Black, Red, Color |
 | Ribbon cables Flexstrip | 6      |                                       |
 
+## 3d Parts compatibility
+
+The revision 4 of the skeletyl introduces drastic changes with the bottom plate. It reuses the positioning of the screws of the Charybdis Nano, so that the Organic tent can be re-used. It also uses new voronoi-style plates.
+
+When choosing a model to print, be mindful of the version you choose. The files in the `V3` folder are **not** compatible with the V4 case. Since the V4 was made for homogeneity purposes only and doesn't bring any major improvements, if you want to use any of the `V3` mods that are not translated yet, go for the `V3`.
+
 ## Print the case
 
 The STL, STEP and Fusion files are included in this Github.
@@ -51,6 +57,8 @@ There is also a version that uses a blackpill with its shield PCB, in the `V3/bl
 Optionally, you can print 30 degree tents. Those are removable and attached with screws, and also come with an optional bottom plate.
 
 The tents come in 2 versions: normal, and organic. The organic one provides a sleeker skeleton-style look with a side holder for the shield pcb, but is longer and harder to print.
+
+**Important information**: if you are using the skeletyl V4, there are no normal tents. Instead, the alien tents of the Charybdis Nano should be used - either 15 or 30 degrees.
 
 
 | Front view               | Side view           |
@@ -80,6 +88,15 @@ This is for the 6x3, but it will work for this keyboard as well.
 # Forks
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
+- [Navtyl - with 5-way switch](https://github.com/Wimads/Navtyl)
+
+
+# Mods
+## Chair mount plate  
+Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).  
+  
+![](pics/chairMount.png)
+
 
 
 # Mods
@@ -115,3 +132,9 @@ V3:
 
 - better stronger screw inserts (added aliexpress link in readme)
 - switch to adapter V1.4
+
+V4
+
+- change plate footprint to be compatible with the charybdis nano organic tent
+- small visual improvements
+- add version numbering on the case and plate
