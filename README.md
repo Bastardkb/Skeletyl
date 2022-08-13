@@ -93,14 +93,11 @@ This is for the 6x3, but it will work for this keyboard as well.
 
 # Mods
 ## Chair mount plate  
-Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).  
-  
-![](pics/chairMount.png)
-
-
-
-# Mods
-## Chair mount plate  
+### V4 version plate
+Requires a 1/4-20 UNC heat insert. Standard 1/4 inch camera mount thread.
+There is a version with bumpon stands so the keyboard can sit flat on a surface when not mounted.
+![](pics/chairMountV4.png)
+### V3 version plate  
 Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).  
   
 ![](pics/chairMount.png)
