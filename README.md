@@ -75,7 +75,7 @@ If you want to print the case yourself, you can also get just the electronics Ki
 # Build guide
 
 Please find detailed build instructions here:
-https://docs.bastardkb.com/hc/en-us/articles/360020031340-Kit-contents-and-required-tools
+https://docs.bastardkb.com/hc/en-us/articles/4415744748306-Kit-contents-and-required-tools
 
 This is for the 6x3, but it will work for this keyboard as well.
 
