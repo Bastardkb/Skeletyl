@@ -47,7 +47,7 @@ When choosing a model to print, be mindful of the version you choose. The files 
 The STL, STEP and Fusion files are included in this Github.
 Feel free to modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
 
-Please find detailed instructions on the online documentation.
+Please find detailed instructions on the online documentation linked below.
 
 There is also a version that uses a blackpill with its shield PCB, in the `V3/blackpill` folder. The position of the audio jack and usb-c holes are slightly different.
 
@@ -74,8 +74,6 @@ If you want to print the case yourself, you can also get just the electronics Ki
 # Build guide
 
 You can find detailed instruction on the online documentation linked below.
-
-This is for the 6x3, but it will work for this keyboard as well.
 
 # Links
 
