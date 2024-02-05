@@ -85,6 +85,7 @@ You can find detailed instruction on the online documentation linked below.
 
 - [Reinforced, increased pinky stagger](https://github.com/dereknheiley/Skeleton-Dactyl-Mini)
 - [Navtyl - with 5-way switch](https://github.com/Wimads/Navtyl)
+- [skeletyl40 - 5x4 variant](https://github.com/bryankenote/skeletyl40)
 
 
 # Mods
