@@ -7,8 +7,7 @@ Compact and silent Dactyl-like keyboard for ergo lovers.
 
 # Required components
 
-## 3d Parts compatibility note
-
+## 3d prints
 
 ### Important note on V4/V3
 
