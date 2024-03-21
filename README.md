@@ -87,24 +87,10 @@ You can find detailed instruction on the online documentation linked below.
 - [Navtyl - with 5-way switch](https://github.com/Wimads/Navtyl)
 - [skeletyl40 - 5x4 variant](https://github.com/bryankenote/skeletyl40)
 
-
 # Mods
-## Chair mount plate  
-### V4 version plate
-Requires a 1/4-20 UNC heat insert. Standard 1/4 inch camera mount thread.
-There is a version with bumpon stands so the keyboard can sit flat on a surface when not mounted.
-![](pics/chairMountV4.png)
-### V3 version plate  
-Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).  
-  
-![](pics/chairMount.png)
+There are a variety of mods available in the `mods` folder, including a unibody case and chair mounts.
 
-# Support me on Patreon
-
-If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
-
-I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
-
+![](pics/unibody.jpg)
 
 # License 
 
