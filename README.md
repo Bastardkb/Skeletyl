@@ -5,64 +5,35 @@ Compact and silent Dactyl-like keyboard for ergo lovers.
 ![](pics/c1.jpg)
 *picture: trekdemow*
 
-# Sourcing the components
+# Required components
 
-## Electronic components
+## 3d Parts compatibility note
 
-You will need to order the parts from a shop, and order some PCBs directly from the manufacturer.
 
-Parts list:
-
-| Part name                         | Amount | Link                                                                                    |
-| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
-| Flexible PCB for the plate   | 2     | https://github.com/Bastardkb/Skeletyl-PCB-plate                                                        |
-| Flexible PCB for the thumbs   | 2     | https://github.com/Bastardkb/TBK-Mini-PCB-thumb-cluster                                                    |
-| Elite-C                           | 2      |                                                                                         |
-| Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                             |
-| SOD123 Diodes                     | 36     |                                                                                         |
-| Ribbon cables Flexstrip           | 34     | Farnell, Aliexpress                                                                        |
-| M4 8mm Torx Screw                 | 12     | Conrad                                                                                  |
-| M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Audio jack, SMD                   | 2      |                                                                                         |
-| Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
-
-If you want RGB, you will also need:
-
-| Part name               | Amount | Format                                |
-| ----------------------- | ------ | ------------------------------------- |
-| SK6812 Mini-E LEDs      | 36     |                                       |
-| Capacitor, 1uF          | 4      | 1206                                  |
-| Resistor, 330Ohms       | 4      | 1206                                  |
-| Wires                   |        | 28 AWG recommended, Black, Red, Color |
-| Ribbon cables Flexstrip | 6      |                                       |
-
-## 3d Parts compatibility
+### Important note on V4/V3
 
 The revision 4 of the skeletyl introduces drastic changes with the bottom plate. It reuses the positioning of the screws of the Charybdis Nano, so that the Organic tent can be re-used. It also uses new voronoi-style plates.
 
-When choosing a model to print, be mindful of the version you choose. The files in the `V3` folder are **not** compatible with the V4 case. Since the V4 was made for homogeneity purposes only and doesn't bring any major improvements, if you want to use any of the `V3` mods that are not translated yet, go for the `V3`.
+When choosing a model to print, be mindful of the version you choose. The files in the `V3` folder are **not** compatible with the V4 case and alien tents. Unless you want to use one of the `V3` mods, we recommend using the latest version `V4`.
 
-## Print the case
+### Print files and instructions
 
-The STL, STEP and Fusion files are included in this Github.
-Feel free to modify them at length. The files are on a non-commercial license, so this is for personal projects only - please do not use those to sell them.
+The STL files are included in this Github repository, in the `files` folder.
 
-Please find detailed instructions on the online documentation linked below.
-
-There is also a version that uses a blackpill with its shield PCB, in the `V3/blackpill` folder. The position of the audio jack and usb-c holes are slightly different.
-
-## Print the tents
-
-Optionally, you can print 30 degree tents. Those are removable and attached with screws, and also come with an optional bottom plate.
-
-The tents come in 2 versions: normal, and organic. The organic one provides a sleeker skeleton-style look with a side holder for the shield pcb, but is longer and harder to print.
-
-**Important information**: if you are using the skeletyl V4, there are no normal tents. Instead, the alien tents of the Charybdis Nano should be used - either 15 or 30 degrees.
+Please find detailed instructions on how to print the case on the online instructions linked below.
 
 
-| Front view               | Side view           |
-| ----------------- | ------------------ |
-| ![](pics/tent1.jpg) | ![](pics/tent2.jpg) |
+| Description      | File                    | Notes                                                                                           |
+| ---------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
+| Right case       | `V4/case_v4_vXY.stl`     |    XY version will vary                                                                                     |
+| Left case        |                         | Mirror the right case in your slicer                      |
+| Right plate      | `V4/plates/plate_v4_vXY.stl` |        XY version will vary                                                                          |
+| Left plate       |                         | Mirror the right case in your slicer                      |
+| Tent - right     | [Charybdis nano tent](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano/tent/alien)    | Optional `Alien` tent, use the one from the Charybdis Nano*                                                                         |
+| Tent - left      |     | Mirror the right tent in your slicer*                                               |
+
+*If you are printing tents, there are multiple ones available for the Charybdis Nano, and only the `Alien` version is compatible with the Skeletyl V4. There are 30, 15 and 5 degrees versions available.
+
 
 ## Get a kit from BastardKB
 
@@ -70,6 +41,11 @@ You can get a full Kit, including case and all PCBs and electronics required on 
 https://bastardkb.com/
 
 If you want to print the case yourself, you can also get just the electronics Kit.
+
+
+## Electronic components
+
+If you are sourcing the electronic components yourself, you can find a BOM in the [BOM](electronics_bom.md) file.
 
 # Build guide
 
