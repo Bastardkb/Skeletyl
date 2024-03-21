@@ -17,7 +17,7 @@ When choosing a model to print, be mindful of the version you choose. The files 
 
 ### Print files and instructions
 
-The STL files are included in this Github repository, in the `files` folder.
+The STL files are included in this Github repository, in the `V4` folder.
 
 Please find detailed instructions on how to print the case on the online instructions linked below.
 
