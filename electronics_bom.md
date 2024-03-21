@@ -4,8 +4,7 @@ Parts list:
 | --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
 | Flexible PCB for the plate   | 2     | https://github.com/Bastardkb/Skeletyl-PCB-plate                                                        |
 | Flexible PCB for the thumbs   | 2     | https://github.com/Bastardkb/TBK-Mini-PCB-thumb-cluster                                                    |
-| Elite-C                           | 2      |                                                                                         |
-| Elite-C adapter PCB V1.4          | 2      | https://github.com/Bastardkb/Elite-C-holder                                             |
+| Splinktegrated                           | 2      | https://github.com/bastardkb/splinktegrated                                                                                        |
 | SOD123 Diodes                     | 36     |                                                                                         |
 | Ribbon cables Flexstrip           | 34     | Farnell, Aliexpress                                                                        |
 | M4 8mm Torx Screw                 | 12     | Conrad                                                                                  |
