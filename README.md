@@ -26,13 +26,14 @@ Please find detailed instructions on how to print the case on the online instruc
 | ---------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
 | Right case       | `V4/case_v4_vXY.stl`     |    XY version will vary                                                                                     |
 | Left case        |                         | Mirror the right case in your slicer                      |
-| Right plate      | `V4/plates/plate_v4_vXY.stl` |        XY version will vary                                                                          |
+| Right plate**      | `V4/plates/plate_v4_vXY.stl` |        XY version will vary                                                                          |
 | Left plate       |                         | Mirror the right case in your slicer                      |
 | Tent - right     | [Charybdis nano tent](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano/tent/alien)    | Optional `Alien` tent, use the one from the Charybdis Nano*                                                                         |
 | Tent - left      |     | Mirror the right tent in your slicer*                                               |
 
 *If you are printing tents, there are multiple ones available for the Charybdis Nano, and only the `Alien` version is compatible with the Skeletyl V4. There are 30, 15 and 5 degrees versions available.
 
+**There is also a DXF file included, if you want to laser-cut plates. See also the `magsafe` mod in the `mods` folder.
 
 ## Get a kit from BastardKB
 
