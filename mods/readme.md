@@ -41,3 +41,7 @@ Alternate bottom plate for mounting to a chair or desk using standard camera mou
 3d printable files to hold a pro micro in place of the splinktegrated PCB.
 
 Files are in the `pro micro` folder.
+
+# Tent plate
+
+A solid tent made to house a battery. Connects to the standard plate at the bottom. 
