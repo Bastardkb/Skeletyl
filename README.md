@@ -56,6 +56,7 @@ You can find detailed instruction on the online documentation linked below.
 - Discord: https://bastardkb.com/discord
 - Website: https://bastardkb.com/
 - Docs: https://docs.bastardkb.com
+- Alternative tent: [magnetic tents]https://github.com/StephanMoeller/skeletyl-magnetic-minimum-height-tents/
 
 # Forks
 
