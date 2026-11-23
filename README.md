@@ -22,14 +22,15 @@ The STL files are included in this Github repository, in the `V4` folder.
 Please find detailed instructions on how to print the case on the online instructions linked below.
 
 
-| Description      | File                    | Notes                                                                                           |
-| ---------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
-| Right case       | `V4/case_v4_vXY.stl`     |    XY version will vary                                                                                     |
-| Left case        |                         | Mirror the right case in your slicer                      |
-| Right plate**      | `V4/plates/plate_v4_vXY.stl` |        XY version will vary                                                                          |
-| Left plate       |                         | Mirror the right case in your slicer                      |
-| Tent - right     | [Charybdis nano tent](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano/tent/alien)    | Optional `Alien` tent, use the one from the Charybdis Nano*                                                                         |
-| Tent - left      |     | Mirror the right tent in your slicer*                                               |
+| Description         | File                                                                                                | Notes                                                                            |
+| ------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Right case          | `V4/case_v4_vXY.stl`                                                                                | XY version will vary                                                             |
+| Left case           |                                                                                                     | Mirror the right case in your slicer                                             |
+| Right plate**       | `V4/plates/plate_v4_vXY.stl`                                                                        | XY version will vary                                                             |
+| Left plate          |                                                                                                     | Mirror the right case in your slicer                                             |
+| Tent - right        | [Charybdis nano tent](https://github.com/Bastardkb/Charybdis/tree/main/files/3x5%20nano/tent/alien) | Optional `Alien` tent, use the one from the Charybdis Nano*                      |
+| USB adapter (audio) | `splinktegrated_adapters/audiojack.stl`                                                             | https://github.com/Bastardkb/Charybdis/tree/main/files/splinktegrated%20adapters |
+| Tent - left         |                                                                                                     | Mirror the right tent in your slicer*                                            |
 
 *If you are printing tents, there are multiple ones available for the Charybdis Nano, and only the `Alien` version is compatible with the Skeletyl V4. There are 30, 15 and 5 degrees versions available.
 
